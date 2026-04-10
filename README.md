@@ -1,5 +1,12 @@
 # OpenClaw Superpowers
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/language-zh%20%2F%20en-brightgreen.svg" alt="Language">
+  <img src="https://img.shields.io/badge/status-active-success.svg" alt="Status">
+  <img src="https://img.shields.io/badge/openclaw-skill-purple.svg" alt="OpenClaw Skill">
+</p>
+
 面向 OpenClaw 风格 Agent 系统的复杂任务执行技能集。
 
 本项目提供一套可复用的复杂任务执行工作流，用于处理多步骤、高风险、长耗时，或在对外汇报完成前需要明确验证的任务。它的目标不是增加流程负担，而是在复杂场景下补齐任务塑形、拆解、委派、校验、阶段收口与最终交付这些关键环节。
